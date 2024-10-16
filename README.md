@@ -43,7 +43,7 @@ Exception-and-Error-Handling/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Exception-and-Error-Handling.git
+    git clone https://github.com/bradford-college/Exception-and-Error-Handling.git
     ```
 2. Navigate to the directory:
     ```sh
